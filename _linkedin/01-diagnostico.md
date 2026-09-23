@@ -8,10 +8,12 @@ Revisión hecha el 23 sep 2026.
 |---|---|
 | Este repo (`index.html`) | Landing con 2 paneles: Terra Viva → cartelera Passline; Olmué Natura → motor de reservas e-GDS. Sin texto comercial. |
 | olmuenatura.cl | Bloqueado desde este entorno. Se usó lo indexado en buscadores (olmuenatura.cl, /lodge, /terra-viva, valparaisoregion.org, matrimonios.cl). |
-| LinkedIn | No se puede leer sin sesión. **No encontré una página de empresa indexada** para Olmué Natura ni Terra Viva, ni un perfil público indexado de Aldo. Hay que confirmarlo a mano. |
+| LinkedIn | No se puede leer sin sesión. **No encontré una página de empresa indexada** para Olmué Natura ni Terra Viva. El perfil de Aldo existe (ver auditoría de marzo 2026 en Drive). |
 | Google Drive | Planilla "Olmué Natura — Leads" (33 formularios, 5 ago – 17 sep 2026), base de prospectos no-Gmail, propuesta Terra Viva × Hippocampus, acuerdos con Rosa Agustina, Checklist Matrimonio Terra Viva, notas de reuniones (Marbella, Open Hotel, Rapa Nui, podcast regional). |
 | Memoria SEVEM | Terra Viva es proveedor 20183 en TodoParaNovios; campañas Meta TOFU/MOFU (jun 2026) con 310 clics MOFU y 0 leads calificados; Terra Viva renovó plan por expectativa. |
 | WeSpeak | El asistente de conocimiento no respondió (timeout). Pendiente cruzar precios y programas vigentes. |
+| OneDrive UV (Microsoft 365) | Programas oficiales de Gestión de Calidad, Servicio al Cliente y RR.HH., material de AHG126 y del curso de Marketing Digital de Duoc. Detalle en [08-docencia-y-trayectoria.md](08-docencia-y-trayectoria.md). |
+| CV 2026 y auditoría de LinkedIn (mar 2026) | En Google Drive. 2.489 seguidores y 39 vistas de perfil por semana en marzo. |
 
 ## Lo que sabemos de cada marca
 
@@ -30,8 +32,8 @@ Revisión hecha el 23 sep 2026.
 - Matrimonios: tiene un lead magnet listo (Checklist Matrimonio Sin Estrés, +80 tareas en 8 etapas).
 
 **Aldo Fajardo (perfil personal)**
-- Gestiona la parte comercial y digital de Olmué Natura y Terra Viva junto a Cristian Verdejo.
-- Docente de hotelería: Marketing de la Hospitalidad, Gestión de Calidad en Empresas Hoteleras, Administración de RR.HH., Comunicaciones y TI.
+- Director Comercial de Olmué Natura y Terra Viva desde enero 2026 (gerente general 2019–2023). El propietario es Cristian Verdejo.
+- Más de 20 años en hotelería. Profesor titular y fundador de la Escuela de Administración Hotelera UV; docente Duoc UC desde 2025. Ver [08](08-docencia-y-trayectoria.md).
 - Construye sus propias automatizaciones con IA: asistente WeSpeak, base de leads con notificación automática (Workspace Studio), landing en GitHub Pages, campañas Meta con agente de WhatsApp, flujos con Claude.
 - Proyecto de podcast regional en preparación.
 

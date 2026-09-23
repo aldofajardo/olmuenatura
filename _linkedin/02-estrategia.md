@@ -25,8 +25,8 @@ En LinkedIn, las páginas de empresa llegan a poca gente de forma orgánica. Los
 | **IA aplicada en un lodge real** | 30% | Cómo un asistente virtual responde consultas de noche; cómo armé la base de leads que me avisa por correo; qué automatizaciones fallaron; cuánto tiempo ahorro por semana; lo que no delegaría a una IA en hotelería |
 | **Datos del mercado de eventos en la V Región** | 20% | Qué piden de verdad las empresas que cotizan una jornada (3 comidas + piscina); con cuántas semanas de anticipación cotizan; por qué los servicios públicos cotizan distinto; tamaños de grupo más frecuentes |
 | **Entretenimiento como negocio hotelero** | 20% | Por qué el stand-up vende más que un tributo; el modelo multi-venue para bajar costo por artista; cómo un show llena un hotel en temporada baja; errores de agenda y cómo compensar al público |
-| **Del aula a la operación** | 15% | Lo que enseño en Marketing de la Hospitalidad y lo que pasa en el lodge el mismo fin de semana; calidad de servicio medida en reseñas; qué buscan hoy los estudiantes de hotelería |
-| **Gestión y aprendizajes** | 15% | Decisiones con números; alianzas con otros hoteles de la región; trabajar con socios; temporada baja |
+| **Del aula a la operación** | 20% | Un concepto de Calidad, Servicio al Cliente, RR.HH., TI o Marketing Digital aplicado a un caso real del lodge. Banco completo en [08-docencia-y-trayectoria.md](08-docencia-y-trayectoria.md) |
+| **Gestión y aprendizajes** | 10% | Decisiones con números; alianzas con otros hoteles de la región; trabajar con socios; temporada baja |
 
 Reglas para Aldo:
 - Cada post lleva un dato, una cifra o una situación concreta. Nada de frases motivacionales.

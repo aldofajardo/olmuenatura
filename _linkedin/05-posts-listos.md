@@ -139,7 +139,7 @@ A mis estudiantes les cuento estos casos porque ningún manual los trae. Y a mí
 #Hotelería #CalidadDeServicio #Docencia #Hospitalidad
 ```
 
-> El caso del grupo de 40 es un ejemplo de estructura. Reemplazarlo por uno real de esa semana antes de publicar.
+> El caso del grupo de 40 es un ejemplo de estructura. Reemplazarlo por uno real de esa semana y ajustar el día de clases antes de publicar. La idea de expectativa vs. percepción viene de la Unidad 3 de Gestión de Servicio al Cliente (EAHG-MH 413).
 
 ---
 

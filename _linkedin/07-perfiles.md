@@ -4,34 +4,44 @@ Revisar datos (años de trayectoria, cargos, capacidades) antes de pegar.
 
 ## Aldo Fajardo · perfil personal
 
+Punto de partida (auditoría del 30 mar 2026): 2.489 seguidores, 39 vistas de perfil por semana, titular largo con 4 roles y "Acerca de" de 2 líneas. Datos tomados del CV 2026.
+
 **Titular (máx. 220 caracteres)**
 
 ```
-Comercial y digital en Olmué Natura Lodge & Spa y Terra Viva | Docente de Marketing y Calidad en Hotelería | IA aplicada a hoteles pequeños
+Director Comercial en Olmué Natura Lodge & Spa y Terra Viva | Profesor de Hotelería UV y Duoc UC | Eventos corporativos, calidad de servicio e IA aplicada a hoteles
 ```
 
 **Acerca de**
 
 ```
-Trabajo en Olmué Natura Lodge & Spa y Terra Viva, en el valle de Olmué, a 80 minutos de Santiago. Me encargo de lo comercial, lo digital y de la producción de espectáculos con Terra Viva Producciones.
+Llevo más de 20 años en hotelería y turismo, entre la operación, la venta y la sala de clases.
 
-También hago clases de hotelería: Marketing de la Hospitalidad, Gestión de Calidad, Recursos Humanos y Tecnologías de la Información. Lo que pruebo en el lodge lo llevo al aula, y lo que preguntan mis estudiantes me obliga a ordenar lo que hacemos en el lodge.
+Hoy soy Director Comercial de Olmué Natura Lodge & Spa y Terra Viva, en el valle de Olmué, a 80 minutos de Santiago. Vendemos jornadas corporativas, retiros, fiestas de fin de año y una cartelera de shows en vivo. Con Terra Viva Producciones también programamos artistas para otros hoteles y resorts de la región.
 
-En los últimos meses construí con IA varias herramientas para el negocio: un asistente virtual que atiende consultas a cualquier hora, una base de leads que avisa por correo cuando llega una cotización y automatizaciones para responder más rápido. Aquí comparto qué funcionó, qué no y con qué números.
+Soy profesor titular y parte del grupo fundador de la Escuela de Administración Hotelera de la Universidad de Valparaíso, donde enseño desde 2005 Gestión de Calidad, Servicio al Cliente y Recursos Humanos. Desde 2025 hago Marketing Digital para destinos turísticos en Duoc UC.
+
+Antes fui gerente general de Olmué Natura y Terra Viva, abrí Hacienda Los Laureles en Limache, lideré alianzas en WeSpeak (tecnología hotelera en 20 países) y durante 8 años hice diagnósticos de calidad de servicio para hoteles como Sheraton Miramar, W Santiago y Solace Puerto Varas.
+
+Aquí escribo sobre lo que pruebo en el lodge y lo que discuto en clase: qué piden las empresas cuando organizan una jornada, cómo medimos el servicio, qué automatizaciones con IA funcionan en un hotel pequeño y cuáles no.
 
 Puedo ayudarte con:
 • Jornadas corporativas, team building y seminarios para 20 a 150 personas en Olmué
-• Producción de cartelera en vivo para hoteles y resorts de la región
-• Conversaciones sobre IA aplicada a hoteles pequeños
+• Cartelera de shows en vivo para hoteles y resorts
+• Charlas sobre calidad de servicio e IA en hotelería
 
 Escríbeme por mensaje directo o a aldo@olmuenatura.cl
 ```
 
+**Sección Servicios:** Eventos corporativos, Producción de eventos, Consultoría de hotelería, Capacitación en servicio al cliente, Marketing digital.
+
 **Otros ajustes**
-- Foto de perfil con fondo neutro; portada con el valle o el salón de Terra Viva y el texto "Jornadas corporativas y shows en Olmué · a 80 min de Santiago".
-- Sección Destacados: Checklist de jornada de bienestar (PDF), one-pager de cartelera para hoteles, link de cotización con UTM.
-- Activar modo creador para poder usar newsletter.
-- Experiencia: separar Olmué Natura, Terra Viva Producciones y docencia en entradas distintas.
+- Portada: el valle o el salón de Terra Viva con el texto "Jornadas corporativas y shows en Olmué · a 80 min de Santiago".
+- Destacados: checklist de jornada de bienestar (PDF), one-pager de cartelera para hoteles, link de cotización con UTM.
+- Experiencia: una entrada por cargo con los textos del CV 2026 (Director Comercial, UV, Duoc UC, WeSpeak, Hacienda Los Laureles, A&R Consultores).
+- Recomendaciones: pedir 5 específicas: Cristian Verdejo (gestión comercial), un director de la Escuela UV (docencia), un cliente corporativo de 2026, un aliado de Terra Viva, un exestudiante que hoy trabaje en hotelería.
+- Activar modo creador para usar newsletter.
+- No usar las cifras de la auditoría de marzo que no tienen respaldo (ver 08).
 
 ---
 
