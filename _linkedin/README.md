@@ -15,6 +15,7 @@ Plan y workflow para publicar en LinkedIn en 3 cuentas y convertir esa presencia
 | [06-prompt-generador.md](06-prompt-generador.md) | Prompt del generador semanal de borradores (para la Routine de Claude) |
 | [07-perfiles.md](07-perfiles.md) | Titular y "Acerca de" de Aldo, y páginas de empresa de ON y Terra Viva |
 | [08-docencia-y-trayectoria.md](08-docencia-y-trayectoria.md) | Asignaturas UV y Duoc, CV y auditoría de LinkedIn convertidos en temas; cómo cerrar las brechas de acceso |
+| [HANDOFF.md](HANDOFF.md) | Documento de traspaso completo para continuar en otra sesión |
 
 ## Orden de implementación
 

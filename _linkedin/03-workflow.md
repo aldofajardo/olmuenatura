@@ -77,14 +77,16 @@ Nada se publica sin estado `Aprobado`.
 
 Dos opciones. Recomiendo empezar con la A.
 
-**A. Metricool (recomendada para arrancar)**
-- Publica en perfil personal y en páginas de empresa de LinkedIn desde un solo panel.
-- Importa CSV con texto, fecha, hora e imagen. Cada lunes, después de aprobar, se exporta la Cola filtrada por `Aprobado` y se sube. Toma 5 minutos.
-- Da métricas por post para completar `impresiones_7d`.
+**A. Metricool Starter + conector oficial de Metricool en Claude (recomendada, pendiente de confirmar)**
+- El plan gratis de Metricool no incluye LinkedIn. Starter: US$20/mes anual o US$25 mes a mes, 5 marcas. Se crean 3 marcas: Aldo (perfil personal), Olmué Natura (página) y Terra Viva (página).
+- Metricool tiene un MCP oficial en el directorio de conectores de Claude (herramientas: createScheduledPost, updateScheduledPost, getScheduledPosts, getBestTimeToPostByNetwork, getAnalyticsDataByMetrics, getBrandSettings). Con él, la Routine del lunes crea los posts directo en el calendario de Metricool.
+- Si el conector no permite guardar como borrador, se programan con al menos 48 horas de margen y Aldo revisa, edita o borra en el calendario de Metricool. Tiempo de Aldo: unos 30 minutos por semana.
+- Las métricas por post se leen con el conector para el reporte mensual.
+- Sin el conector, Metricool también importa CSV con texto, fecha, hora e imagen.
 
-**B. Make (automatización completa, segunda etapa)**
+**B. Make o n8n (solo si se descarta Metricool)**
 - Escenario: "Watch rows" en la Cola → filtro `estado = Aprobado` → módulo LinkedIn "Create a post" (perfil personal) o "Create an organization post" (páginas) → escribe `url_publicado` y cambia a `Publicado`.
-- Para publicar en páginas de empresa, Aldo debe ser administrador de las páginas de ON y Terra Viva.
+- Para publicar en páginas de empresa, Aldo debe ser administrador de las páginas de ON y Terra Viva, y la app de LinkedIn necesita la aprobación de la Community Management API (trámite de 2 a 3 semanas, puede ser rechazado).
 - Programación: el escenario corre cada 15 minutos y publica las filas cuya fecha y hora ya pasaron.
 
 Horarios base (hora de Chile):
